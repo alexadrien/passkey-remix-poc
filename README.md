@@ -1,36 +1,14 @@
-# Welcome to Remix + Vite!
+# Passkey Proof-of-concept
 
-📖 See the [Remix docs](https://remix.run/docs) and the [Remix Vite docs](https://remix.run/docs/en/main/future/vite) for details on supported features.
+For my friend Ruben.
 
-## Development
+Useful links: 
 
-Run the Vite dev server:
+https://remix.run/resources/remix-auth-webauthn-strategy
 
-```shellscript
-npm run dev
-```
+https://remix.run/resources/remix-auth
 
-## Deployment
+https://developer.apple.com/passkeys/
 
-First, build your app for production:
+https://webauthn.io/
 
-```sh
-npm run build
-```
-
-Then run the app in production mode:
-
-```sh
-npm start
-```
-
-Now you'll need to pick a host to deploy it to.
-
-### DIY
-
-If you're familiar with deploying Node applications, the built-in Remix app server is production-ready.
-
-Make sure to deploy the output of `npm run build`
-
-- `build/server`
-- `build/client`
